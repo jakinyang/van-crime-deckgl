@@ -1,0 +1,21 @@
+{
+  "name": "van-crime-deckgl",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.1.0"
+  },
+  "dependencies": {
+    "@deck.gl/core": "^8.8.23",
+    "@deck.gl/layers": "^8.8.23",
+    "convert-csv-to-json": "^1.5.0",
+    "install": "^0.13.0",
+    "npm": "^9.4.2"
+  }
+}
