@@ -15,6 +15,7 @@
     "@deck.gl/core": "^8.8.23",
     "@deck.gl/layers": "^8.8.23",
     "convert-csv-to-json": "^1.5.0",
+    "deck.gl": "^8.8.23",
     "install": "^0.13.0",
     "npm": "^9.4.2"
   }
